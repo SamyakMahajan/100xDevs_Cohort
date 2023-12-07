@@ -1,5 +1,5 @@
-# 100Xdevs Cohort 2.0
-
+# I am participating in a Cohort named 100xDevs
+Here are the assignments and codes I wrote during the cohort!
 ## Week 0
 - Basics of HTML and CSS
   - Assignment/Class - [Zerodha Landing Page]([https://github.com/SamyakMahajan/Zerodha_Landing_Page])
