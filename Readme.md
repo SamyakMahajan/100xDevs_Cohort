@@ -13,10 +13,10 @@
 - [Click Here for Code](https://github.com/dexter-ifti/100Xdevs/blob/main/Week-1/main.js)
 
 - Assignments
-  - [Easy](https://github.com/dexter-ifti/100Xdevs/tree/main/Week-1/assignments/01-js/easy)
-  - [Medium](https://github.com/dexter-ifti/100Xdevs/tree/main/Week-1/assignments/01-js/medium)
-  - [Hard](https://github.com/dexter-ifti/100Xdevs/tree/main/Week-1/assignments/01-js/hard)
+  - [Easy](https://github.com/SamyakMahajan/assignments/tree/master/01-js/easy)
+  - [Medium](https://github.com/SamyakMahajan/assignments/01-js/medium)
+  - [Hard](https://github.com/SamyakMahajan/assignments/01-js/hard)
 - Extra Assignments
     - [Counter](https://github.com/dexter-ifti/100Xdevs/blob/main/Week-1/class-assignments/counter.js)
-    - [Terminal Clock]()
-    - [Calculate Time]() 
+    - [Terminal Clock](https://github.com/SamyakMahajan/assignments/blob/master/01-js/terminal_clock.js)
+     
