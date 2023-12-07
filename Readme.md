@@ -1,5 +1,5 @@
-# Hi There!
-I am participating in a Cohort named 100xDevs
+# 100xDevs
+I am participating in a Cohort named <b>100xDevs</b> <br>
 Here are the assignments and codes I wrote during the cohort!
 ## Week 0
 - Basics of HTML and CSS
