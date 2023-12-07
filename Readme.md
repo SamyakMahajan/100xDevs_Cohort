@@ -20,3 +20,7 @@
     - [Counter](https://github.com/dexter-ifti/100Xdevs/blob/main/Week-1/class-assignments/counter.js)
     - [Terminal Clock](https://github.com/SamyakMahajan/assignments/blob/master/01-js/terminal_clock.js)
      
+
+##My Projects
+- [Zerodha Landing Page!](https://SamyakMahajan.github.io/Zerodha_Landing_Page/index.html)
+- [Live Digital Clock!](https://samyakmahajan.github.io/Digital_Clock_Website/index.html)
