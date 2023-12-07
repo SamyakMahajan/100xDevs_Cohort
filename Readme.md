@@ -1,4 +1,4 @@
-#Hi There!
+# Hi There!
 I am participating in a Cohort named 100xDevs
 Here are the assignments and codes I wrote during the cohort!
 ## Week 0
